@@ -28,13 +28,12 @@
 				<configuration>
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com/</uri>
-						<muleVersion>4.2.2</muleVersion>
-						<username>pankajmangalrediff</username>
-						<password>qaz123QAZ</password>
+						<muleVersion>4.2.2</muleVersion>						
 						<applicationName>ci-cd-demo-pankaj</applicationName>
 						<environment>Dev</environment>
 						<workerType>Micro</workerType>
 						<objectStoreV2>true</objectStoreV2>
+						<server>server-credential</server>
 					</cloudHubDeployment>
 				</configuration>
 			</plugin>
