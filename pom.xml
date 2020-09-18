@@ -34,6 +34,7 @@
 						<applicationName>ci-cd-demo-pankaj</applicationName>
 						<environment>Dev</environment>
 						<workerType>Micro</workerType>
+						<objectStoreV2>true</objectStoreV2>
 					</cloudHubDeployment>
 				</configuration>
 			</plugin>
