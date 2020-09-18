@@ -31,7 +31,7 @@
 						<muleVersion>4.2.2</muleVersion>
 						<username>pankajmangalrediff</username>
 						<password>qaz123QAZ</password>
-						<applicationName>ci-cd-demo</applicationName>
+						<applicationName>ci-cd-demo-pankaj</applicationName>
 						<environment>Dev</environment>
 					</cloudHubDeployment>
 				</configuration>
