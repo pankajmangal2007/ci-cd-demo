@@ -32,7 +32,7 @@
 						<username>pankajmangalrediff</username>
 						<password>qaz123QAZ</password>
 						<applicationName>ci-cd-demo</applicationName>
-						<environment>DEV</environment>
+						<environment>Dev</environment>
 					</cloudHubDeployment>
 				</configuration>
 			</plugin>
