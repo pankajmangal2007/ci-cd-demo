@@ -33,6 +33,7 @@
 						<password>qaz123QAZ</password>
 						<applicationName>ci-cd-demo-pankaj</applicationName>
 						<environment>Dev</environment>
+						<workerType>Micro</workerType>
 					</cloudHubDeployment>
 				</configuration>
 			</plugin>
